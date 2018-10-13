@@ -1,3 +1,3 @@
 # hello-world
 0 assignment 
-I am Ekaterina Vtornikova, as Master's of Economics student.
+I am Ekaterina Vtornikova, a Master's of Economics student.
